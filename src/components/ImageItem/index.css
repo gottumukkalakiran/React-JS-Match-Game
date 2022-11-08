@@ -1,0 +1,11 @@
+.img {
+  height: 120px;
+  width: 120px;
+  margin: 15px;
+}
+.button {
+  border: none;
+  outline: none;
+  background-color: transparent;
+  padding: 0;
+}

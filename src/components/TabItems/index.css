@@ -1,0 +1,17 @@
+.name {
+  color: #ffffff;
+  font-size: 25px;
+  background-color: transparent;
+  outline: none;
+  font-family: 'Roboto';
+  border: none;
+}
+.active {
+  border-bottom: 2px solid #fec653;
+  color: #fec653;
+}
+.tab-item {
+  list-style-type: none;
+  margin-right: 15px;
+  margin-top: 15px;
+}
